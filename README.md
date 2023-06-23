@@ -1,5 +1,5 @@
 # bsbot
-Bot para vendas de CC no Telegram
+Bot para veneno
 
 Certifique de ter Python instalado na sua máquina!
 
